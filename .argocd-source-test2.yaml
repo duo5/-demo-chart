@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: duonghx98/demo-app
+    forcestring: true
+  - name: image.tag
+    value: v1
+    forcestring: true
