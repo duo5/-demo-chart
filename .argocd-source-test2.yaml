@@ -4,5 +4,5 @@ helm:
     value: duonghx98/demo-app
     forcestring: true
   - name: image.tag
-    value: v1
+    value: v1.1
     forcestring: true
